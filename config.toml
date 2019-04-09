@@ -1,0 +1,47 @@
+baseURL = "https://skl.me/"
+languageCode = "en-gb"
+title = "Stephen Lang"
+theme = "hallo"
+
+[Author]
+    name="Stephen Lang"
+
+[params]
+    # greeting = "こんにちは！"
+
+    [params.colors]
+        background = "#d6d3bd"
+        foreground = "#444"
+        hover = "#000"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:stephen@skl.me"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "building"
+        title = "Kaizen Digital Ltd"
+        url = "https://kaizen.digital/"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn @stephenkarllang"
+        url = "https://www.linkedin.com/in/stephenkarllang"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github @skl"
+        url = "https://github.com/skl"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter @skl_"
+        url = "https://twitter.com/skl_"
+
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram @skl85"
+        url = "https://instagram.com/skl85/"
